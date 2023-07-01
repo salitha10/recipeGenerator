@@ -57,7 +57,7 @@ def run_completion(
     return resp
 
 
-api_key = "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"
+api_key = "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"
 oai_client = init_oai_client(api_key)
 
 stop = ["user:", "Chef:"]
