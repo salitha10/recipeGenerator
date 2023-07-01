@@ -1,0 +1,7 @@
+diskcache==5.4.0
+Flask==2.1.2
+Flask_Cors==3.0.10
+openai==0.26.4
+stqdm==0.0.5
+streamlit==1.14.1
+tenacity==8.1.0
